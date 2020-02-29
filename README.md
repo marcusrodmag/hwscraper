@@ -1,0 +1,2 @@
+# hwscraper
+Hardware Scraper
